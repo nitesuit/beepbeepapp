@@ -1,0 +1,6 @@
+BeepBeep.MainActivity;beepbeep.MainActivity
+BeepBeep.MapActivity;beepbeep.MapActivity
+BeepBeep.FillActivity;beepbeep.FillActivity
+BeepBeep.StatsActivity;beepbeep.StatsActivity
+BeepBeep.OptionsActivity;beepbeep.OptionsActivity
+BeepBeep.ListActivity;beepbeep.ListActivity
